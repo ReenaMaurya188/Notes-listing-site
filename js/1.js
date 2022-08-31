@@ -1,4 +1,5 @@
 //console.log('Welcome to notes app. This is app.js');
+// heading is added to notes by removing index counts as heading
 showNotes();
 
 //If user adds a note, add it to the localStorage
